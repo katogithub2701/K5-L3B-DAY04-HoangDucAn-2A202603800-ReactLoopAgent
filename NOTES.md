@@ -1,7 +1,7 @@
 # Ghi chú phân tích · Day 04
 
-Họ và tên:
-MSSV:
+Họ và tên: Hoàng Đức An
+MSSV: 2A202603800
 
 ## 1. Case được chọn
 
